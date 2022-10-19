@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\41positivNumbersFromArray.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\41positivNumbersFromArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\41positivNumbersFromArray.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\41positivNumbersFromArray.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\41positivNumbersFromArray.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\bin\Debug\net6.0\41positivNumbersFromArray.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\bin\Debug\net6.0\41positivNumbersFromArray.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\bin\Debug\net6.0\41positivNumbersFromArray.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\bin\Debug\net6.0\41positivNumbersFromArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\bin\Debug\net6.0\41positivNumbersFromArray.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\41positivNumbersFromArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\refint\41positivNumbersFromArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\41positivNumbersFromArray.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\41positivNumbersFromArray.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\41positivNumbersFromArray\obj\Debug\net6.0\ref\41positivNumbersFromArray.dll
