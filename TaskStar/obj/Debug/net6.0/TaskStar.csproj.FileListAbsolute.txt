@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\TaskStar.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\TaskStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\TaskStar.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\TaskStar.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\TaskStar.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\bin\Debug\net6.0\TaskStar.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\bin\Debug\net6.0\TaskStar.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\bin\Debug\net6.0\TaskStar.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\bin\Debug\net6.0\TaskStar.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\bin\Debug\net6.0\TaskStar.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\TaskStar.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\refint\TaskStar.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\TaskStar.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\TaskStar.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh6\homework\TaskStar\obj\Debug\net6.0\ref\TaskStar.dll
